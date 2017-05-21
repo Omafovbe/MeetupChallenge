@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relationship Facts</string>
+    <string name="honesty">Honesty</string>
+    <string name="honestTalk">Honesty is the most important aspect of a relationship. \nFor secrets are stressful and eat away at you, therefore it makes sense you would want to be able to be really open with your partner and have them do the same.</string>
+    <string name="talkDetails">Communication is key. \n Discussing big issues should always be done in person. I know it\’s easy to say things through text, but that\’s taking the easy and unhealthy way out.\nYou need to be open with your heart and your words.\nThere\’s listening and then there\’s active listening. Active listening involves letting your significant other know that you\’re 100% listening and hearing what they are saying. This type of listening involves eye contact, repeating back what you heard, and your attention. So, looking at your phone while your girlfriend is talking to you is NOT active listening.\nIt\’s crucial to know that you don\’t just communicate through your words — you\'re also showing how you feel through your actions.</string>
+    <string name="commit">Commitment</string>
+    <string name="commitDetails">When you make a commitment to someone specific and form a relationship you are committing to including them in your life as you. It is the souls\' quest for oneness. And because of this, you include their happiness in your happiness.</string>
+    <string name="talk">Communication</string>
+</resources>
